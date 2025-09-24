@@ -6,7 +6,7 @@ A responsive, multi-page React application for managing users — built for the 
 
 ## Live Demo
 
-git link https://github.com/Revanth-vanjarapu/User-Dashboard.git
+[https://user-dashboard-ruddy-five.vercel.app/](https://user-dashboard-ruddy-five.vercel.app/)
 
 ---
 
