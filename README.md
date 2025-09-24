@@ -6,7 +6,7 @@ A responsive, multi-page React application for managing users — built for the 
 
 ## Live Demo
 
-
+git link https://github.com/Revanth-vanjarapu/User-Dashboard.git
 
 ---
 
@@ -42,7 +42,7 @@ A responsive, multi-page React application for managing users — built for the 
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/user-dashboard.git
+git clone https://github.com/Revanth-vanjarapu/User-Dashboard.git
 cd user-dashboard
 
 # Install dependencies
